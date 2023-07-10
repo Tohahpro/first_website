@@ -97,3 +97,49 @@ main {
 }
 
 /* previous year style end  */
+
+.plan-section {
+    margin-top: 40px;
+}
+
+.plan-heading {
+    color: var(--dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.icon {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 140px;
+    text-align: center;
+}
+
+
+
+.icon-image img {
+    justify-items: center;
+    width: 92.958px;
+    height: 92.958px;
+}
+
+
+.icon-heading {
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.icon-description {
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+/* .plan-section style end  */
