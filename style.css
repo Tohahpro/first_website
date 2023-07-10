@@ -56,3 +56,44 @@ body {
 
 
 /* header section end  */
+
+main {
+    margin-top: 80px;
+}
+
+.previous-year {
+    display: flex;
+    justify-content: space-around;
+}
+
+.previous-year-title {
+    margin-top: 200px;
+}
+
+.previous-year-heading {
+    color: var(--dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    width: 288px;
+    margin-top: 20px;
+}
+
+
+.previous-year-description {
+    color: var(--dark-02, #444343);
+    font-size: 16px;
+    font-weight: 400;
+    width: 416px;
+    margin-top: 20px;
+}
+
+
+.mark-details {
+    margin-top: 10px;
+}
+
+.checkmark {
+    color: greenyellow;
+}
+
+/* previous year style end  */
